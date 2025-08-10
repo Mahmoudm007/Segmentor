@@ -74,13 +74,39 @@ Qt framework
 OpenCV library
 Run the Project
 
+## Contributors <a name="Contributors"></a>
 
-### Team
-------------------------------------------
-
-| Team Members' Names | 
-|---------------------|
-| [Ahmed Kamal](https://github.com/AhmedKamalMohammedElSayed)|
-| [Amgad Atef](https://github.com/amg-eng)| 
-| [Mahmoud Magdy](https://github.com/MahmoudMagdy404)|       
-| [Mahmoud Mohamed ](https://github.com/Mahmoudm007)|        
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Mahmoudm007" target="_black">
+      <img src="https://avatars.githubusercontent.com/u/101353088?v=4" width="190px;" alt="Mahmoud M."/>
+      <br />
+      <sub><b>Mahmoud M. Abdelaty</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AhmedKamalMohammedElSayed" target="_black">
+      <img src="https://avatars.githubusercontent.com/u/96977876?v=4" width="190px;" alt="Ahmed Kamal"/>
+      <br />
+      <sub><b>Ahmed Kamal</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/amg-eng" target="_black">
+      <img src="https://avatars.githubusercontent.com/u/101107538?v=4" width="190px;" alt="Amgad Atef"/>
+      <br />
+      <sub><b>Amgad Atef</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MahmoudMagdy404" target="_black">
+      <img src="https://avatars.githubusercontent.com/u/83336074?v=4" width="190px;" alt="Amgad Atef"/>
+      <br />
+      <sub><b>Mahmoud Magdy</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mohandemadx" target="_black">
+      <img src="https://avatars.githubusercontent.com/u/102548631?v=4" width="190px;" alt="Amgad Atef"/>
+      <br />
+      <sub><b>Mahmoud Magdy</b></sub></a>
+    </td>
+  </tr>
+</table>
